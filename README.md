@@ -39,5 +39,5 @@ You can click the Preview link to take a look at your changes.
   * 🌱 I’m currently learning web development and python 🐍.
   * 👀 I’m interested in astrology and science stuffs.
   * 📫 How to reach me: <br/>
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](aryanchannyein@gmail.com)
+    [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanchannyein@gmail.com)
   * 💞️ I’m looking to collaborate on with freelance projects.
