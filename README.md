@@ -34,10 +34,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 ### 👨‍💻 About Me:
-👋 I’m @AChanNyein 👨‍🦲 from Myanmar.
-  * 💻 I'm currently working as a teacher in Int'l Schools as Computer Science Teacher 👨‍🏫.
-  * 🌱 I’m currently learning web development and python 🐍.
-  * 👀 I’m interested in astrology and science stuffs.
-  * 📫 How to reach me: <br/>
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanchannyein@gmail.com)
-  * 💞️ I’m looking to collaborate on with freelance projects.
+👋 I’m @AChanNyein from Myanmar. <br/>
+&emsp; &ensp; &emsp; 💻 I'm currently working as a teacher in Int'l Schools as Computer Science Teacher 👨‍🏫. <br/>
+🌱 I’m currently learning web development and python 🐍. <br/>
+👀 I’m interested in astrology and science stuffs. <br/>
+💞️ I’m looking to collaborate on with freelance projects. <br/>
+📫 How to reach me: <br/> [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanchannyein@gmail.com)
